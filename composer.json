@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/var-dumper": "^4.3",
+        "fzaninotto/faker": "^1.8"
+    }
+}
